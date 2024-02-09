@@ -2,3 +2,4 @@
 *.scss linguist-detectable=false
 *.css linguist-detectable=false
 *.typescript linguist-detectable=false
+*.less linguist-detectable=false
