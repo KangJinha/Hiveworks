@@ -1,5 +1,5 @@
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 하이브웍스 </h2> 
+    <h2 style="border-bottom: 0px solid #21262d; color: #c9d1d9;"> 하이브웍스 </h2> 
     </div>
     <div align= "center"> 
     <hr>  
