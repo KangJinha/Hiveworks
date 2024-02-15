@@ -2,7 +2,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 하이브웍스 </h2> 
     </div>
     <div align= "center"> 
-    <h2> </h2>  
+    <hr>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 범용그룹웨어입니다 </div> 
     </div>
     <div align= "center">
